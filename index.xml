@@ -6,10 +6,19 @@
     <description>Recent content on Shekispeaks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Dec 2017 12:44:18 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 05 Feb 2018 22:24:14 -0800</lastBuildDate>
     
 	<atom:link href="https:///sheki.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Think Vacation</title>
+      <link>https:///sheki.github.io/posts/think-vacation/</link>
+      <pubDate>Mon, 05 Feb 2018 22:24:14 -0800</pubDate>
+      
+      <guid>https:///sheki.github.io/posts/think-vacation/</guid>
+      <description>What is it? A Think Vacation a good amount of time just thinking without any distractions. This is not a new concept, a lot of people in the past used to retreat to their cabins/summer homes etc to think and catch a break. We in the modern world do not have the luxury to do it - due to lack of time/money, the distracting phone or due amazing restaurants and signs available to us during our real vacations.</description>
+    </item>
     
     <item>
       <title>Software Engineering</title>

@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https:///sheki.github.io/posts/think-vacation/</loc>
+    <lastmod>2018-02-05T22:24:14-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https:///sheki.github.io/posts/my-first-post/</loc>
     <lastmod>2017-12-31T12:44:18-08:00</lastmod>
   </url>
@@ -14,13 +19,13 @@
   
   <url>
     <loc>https:///sheki.github.io/posts/</loc>
-    <lastmod>2017-12-31T12:44:18-08:00</lastmod>
+    <lastmod>2018-02-05T22:24:14-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https:///sheki.github.io/</loc>
-    <lastmod>2017-12-31T12:44:18-08:00</lastmod>
+    <lastmod>2018-02-05T22:24:14-08:00</lastmod>
     <priority>0</priority>
   </url>
   
