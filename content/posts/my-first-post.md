@@ -8,7 +8,6 @@ draft: False
 project, it speeds things up but adding more programmers to a Software project
 does not.
 
-
 *BJ:* Buildings have very well specified blue-prints. In software if you have
 good blue-prints the job is already done.
 
