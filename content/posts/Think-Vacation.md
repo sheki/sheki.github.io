@@ -51,6 +51,7 @@ Project based books are a good fit for a Think Vacation. Some examples:
 * Roadmap: The Get-It-Together Guide for Figuring Out What to Do with Your Life
  [link](https://www.amazon.com/Roadmap-Get-Together-Guide-Figuring/dp/1452128456/ref=sr_1_1?s=books&ie=UTF8&qid=1485194804&sr=1-1&keywords=roadmap)
 * The Maeve Binchy Writers' Club [link](https://www.amazon.com/dp/0752883070?tag=fivboo-20)
+* Feeling Good: The New Mood Therapy [link](https://www.amazon.com/Feeling-Good-New-Mood-Therapy/dp/0380810336)
 
 ## Logistics
 This is some weekend in April. This Vacation shall be for 3 Days. Fri-Sat-Sun.
